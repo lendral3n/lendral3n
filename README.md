@@ -36,9 +36,9 @@ Here is the list of technology stacks that I have used:
       <td align="center" valign="top" width="14.28%"><a href="https://cloudinary.com/"><img src="https://avatars.githubusercontent.com/u/1460763?s=48" width="100px;" alt="Cloudinary"/><br /><sub><b>Cloudinary</b></sub></a></td>
         <td align="center" valign="top" width="14.28%"><a href="https://midtrans.com/id"><img src="https://avatars.githubusercontent.com/u/17001512?s=48" width="100px;" alt="Midtrans"/><br /><sub><b>Midtrans</b></sub></a></td>
     </tr>
-    <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.postman.com/"><img src="https://avatars.githubusercontent.com/u/10251060?s=200" width="100px;" alt="Postman"/><br /><sub><b>Postman</b></sub></a></td>
-    </tr>
+   <!--- <tr>
+      New Stack
+    </tr> --->
   </tbody>
 </table>
 
