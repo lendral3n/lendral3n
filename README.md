@@ -20,6 +20,7 @@ Here is the list of technology stacks that I have used:
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://go.dev/"><img src="https://avatars.githubusercontent.com/u/4314092?s=200" width="100px;" alt="Golang"/><br /><sub><b>Golang</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://avatars.githubusercontent.com/u/5429470?s=200" width="100px;" alt="Docker"/><br /><sub><b>Docker</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://echo.labstack.com/"><img src="https://avatars.githubusercontent.com/u/2624634?s=48" width="100px;" alt="Echo"/><br /><sub><b>Echo</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/gorilla/websocket"><img src="https://avatars.githubusercontent.com/u/489566?s=48" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Gorilla WebSocket</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://gorm.io/"><img src="https://avatars.githubusercontent.com/u/15127678?s=48" width="100px;" alt="Gorm"/><br /><sub><b>Gorm</b></sub></a></td>
@@ -36,7 +37,6 @@ Here is the list of technology stacks that I have used:
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://midtrans.com/id"><img src="https://avatars.githubusercontent.com/u/17001512?s=48" width="100px;" alt="Midtrans"/><br /><sub><b>Midtrans</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://avatars.githubusercontent.com/u/5429470?s=200" width="100px;" alt="Docker"/><br /><sub><b>Docker</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.postman.com/"><img src="https://avatars.githubusercontent.com/u/10251060?s=200" width="100px;" alt="Postman"/><br /><sub><b>Postman</b></sub></a></td>
     </tr>
   </tbody>
