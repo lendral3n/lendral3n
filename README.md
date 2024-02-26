@@ -1,4 +1,5 @@
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lendral3n&show_icons=true&theme=transparent)
 ![](https://komarev.com/ghpvc/?username=lendral3n&color=blue&style=plastic) 
 
 ## Tech Stack ✨
