@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=lendral3n&color=blue&style=plastic" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+LENDRA+SYAPUTRA!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lendra+Syaputra !!;" />
 </h1>
 
 <h3 align="center">Im Backend Engineer from <a href="https://academy.alterra.id/">Alterra Academy !!</h3>
@@ -16,9 +16,6 @@
 
  list of technology stacks that i have used:
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
 <table>
   <tbody>
     <tr>
@@ -29,6 +26,3 @@
     </tr>
   </tbody>
 </table>
-<!-- markdownlint-enable -->
-<!-- prettier-ignore-end -->
-<!-- ALL-CONTRIBUTORS-LIST:END -->
