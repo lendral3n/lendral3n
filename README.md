@@ -42,19 +42,14 @@ Here is the list of technology stacks that I have used:
   </tbody>
 </table>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+## Contact Me
+
+<div align="left">
+ <p align="left">
 <a href="https://www.facebook.com/profile.php?id=100041613250923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lendra" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/lendra-syaputra-98119023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lendra" height="30" width="40" /></a>
 <a href="https://www.instagram.com/lendral3n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lendra" height="30" width="40" /></a>
 <a href="https://discord.com/users/804390945393999952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lendra" height="30" width="40" /></a>
 </p>
 
-## Contact Me
-
-<div align="left">
-  <a href="&ref=xav_ig_profile_web"><img src="https://komarev.com/ghpvc/?username=lendral3n&color=blue&style=plastic" height="35" alt="facebook logo"  /></a>
-  <a href=""><img src="https://komarev.com/ghpvc/?username=lendral3n&color=E4405F&style=plastic" height="35" alt="instagram logo"  /></a>
-  <a href=""><img src="https://komarev.com/ghpvc/?username=lendral3n&color=7289DA&style=plastic" height="35" alt="discord logo"  /></a>
-  <a href=""><img src="https://komarev.com/ghpvc/?username=lendral3n&color=0077B5&style=plastic" height="35" alt="linkedin logo"  /></a>
 </div>
