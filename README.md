@@ -1,23 +1,16 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=lendral3n&color=blue&style=plastic" />
 
-<!---<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Vroom+Vroom&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lendra+Syaputra!!;" />
-</h1>--->
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lendra+Syaputra!!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lendra+Syaputra!!+😊;" />
 </h1>
 
-
-<h3 align="center">Im Backend Engineer from <a href="https://academy.alterra.id/">Alterra Academy !!</h3>
-
-<br/>
+<h3 align="center">👨‍💻 I'm Backend Engineer from <a href="https://academy.alterra.id/">Alterra Academy</a> !!</h3>
 
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lendral3n&show_icons=true&theme=transparent)
 
-## Tech Stack ✨
+## Tech Stack 🛠️ 
 
 Here is the list of technology stacks that I have used:
 
@@ -47,7 +40,7 @@ Here is the list of technology stacks that I have used:
   </tbody>
 </table>
 
-## Contact Me
+## Contact Me 📞
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100041613250923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lendra" height="50" width="60" /></a>
