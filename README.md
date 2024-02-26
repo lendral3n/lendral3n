@@ -1,8 +1,16 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<img align="right" src="https://komarev.com/ghpvc/?username=lendral3n&color=blue&style=plastic" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+LENDRA+SYAPUTRA!;" />
+</h1>
+
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+
+<br/>
+
+<div align="center">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lendral3n&show_icons=true&theme=transparent)
-![](https://komarev.com/ghpvc/?username=lendral3n&color=blue&style=plastic) 
 
 ## Tech Stack ✨
 
