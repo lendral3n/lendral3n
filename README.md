@@ -32,7 +32,7 @@ Here is the list of technology stacks that I have used:
       <td align="center" valign="top" width="14.28%"><a href="https://jwt.io/"><img src="https://jwt.io/img/pic_logo.svg" width="100px;" alt="JWT"/><br /><sub><b>JWT</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/"><img src="https://avatars.githubusercontent.com/u/2232217?s=200" width="100px;" alt="AWS"/><br /><sub><b>AWS</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/ec2/"><img src="https://d1.awsstatic.com/logos/aws-logo.svg" width="100px;" alt="EC2"/><br /><sub><b>EC2</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/s3/"><img src="https://d1.awsstatic.com/logos/aws-logo.svg" width="100px;" alt="S3"/><br /><sub><b>S3</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/s3/"><img src="https://d2ga7imph990gt.cloudfront.net/icon/c0828e0381730befd1f7a025057c74fb-43acc0496e64afba82dbc9ab774dc622.svg" width="100px;" alt="S3"/><br /><sub><b>S3</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://cloudinary.com/"><img src="https://avatars.githubusercontent.com/u/1460763?s=48" width="100px;" alt="Cloudinary"/><br /><sub><b>Cloudinary</b></sub></a></td>
     </tr>
     <tr>
