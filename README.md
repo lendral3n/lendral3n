@@ -32,10 +32,10 @@ Here is the list of technology stacks that I have used:
       <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/"><img src="https://avatars.githubusercontent.com/u/2232217?s=200" width="100px;" alt="AWS"/><br /><sub><b>AWS</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/ec2/"><img src="https://d1.awsstatic.com/logos/aws-logo.svg" width="100px;" alt="EC2"/><br /><sub><b>EC2</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/s3/"><img src="https://d1.awsstatic.com/logos/aws-logo.svg" width="100px;" alt="S3"/><br /><sub><b>S3</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://cloudinary.com/"><img src="https://avatars.githubusercontent.com/u/2187003?s=200" width="100px;" alt="Cloudinary"/><br /><sub><b>Cloudinary</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://cloudinary.com/"><img src="https://avatars.githubusercontent.com/u/1460763?s=48" width="100px;" alt="Cloudinary"/><br /><sub><b>Cloudinary</b></sub></a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://midtrans.com/id"><img src="https://avatars.githubusercontent.com/u/1156113?s=200" width="100px;" alt="Midtrans"/><br /><sub><b>Midtrans</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://midtrans.com/id"><img src="https://avatars.githubusercontent.com/u/17001512?s=48" width="100px;" alt="Midtrans"/><br /><sub><b>Midtrans</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://avatars.githubusercontent.com/u/5429470?s=200" width="100px;" alt="Docker"/><br /><sub><b>Docker</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.postman.com/"><img src="https://avatars.githubusercontent.com/u/10251060?s=200" width="100px;" alt="Postman"/><br /><sub><b>Postman</b></sub></a></td>
     </tr>
