@@ -29,14 +29,15 @@ Here is the list of technology stacks that I have used:
       <td align="center" valign="top" width="14.28%"><a href="https://redis.io/"><img src="https://avatars.githubusercontent.com/u/1529926?s=48" width="100px;" alt="Redis"/><br /><sub><b>Redis</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://jwt.io/"><img src="https://jwt.io/img/pic_logo.svg" width="100px;" alt="JWT"/><br /><sub><b>JWT</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/"><img src="https://avatars.githubusercontent.com/u/2232217?s=200" width="100px;" alt="AWS"/><br /><sub><b>AWS</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/ec2/"><img src="https://d2ga7imph990gt.cloudfront.net/icon/d88319dfa5d204f019b4284149886c59-7d586ea82f792b61a8c87de60565133d.svg" width="100px;" alt="EC2"/><br /><sub><b>EC2</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="c"><img src="https://d2ga7imph990gt.cloudfront.net/icon/d88319dfa5d204f019b4284149886c59-7d586ea82f792b61a8c87de60565133d.svg" width="100px;" alt="EC2"/><br /><sub><b>EC2</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/s3/"><img src="https://d2ga7imph990gt.cloudfront.net/icon/c0828e0381730befd1f7a025057c74fb-43acc0496e64afba82dbc9ab774dc622.svg" width="100px;" alt="S3"/><br /><sub><b>S3</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://cloudinary.com/"><img src="https://avatars.githubusercontent.com/u/1460763?s=48" width="100px;" alt="Cloudinary"/><br /><sub><b>Cloudinary</b></sub></a></td>
         <td align="center" valign="top" width="14.28%"><a href="https://midtrans.com/id"><img src="https://avatars.githubusercontent.com/u/17001512?s=48" width="100px;" alt="Midtrans"/><br /><sub><b>Midtrans</b></sub></a></td>
     </tr>
-   <!--- <tr>
-      New Stack
-    </tr> --->
+   <tr>
+        <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/rds/"><img src="https://d2ga7imph990gt.cloudfront.net/icon/1d374ed2a6bcf601d7bfd4fc3dfd3b5d-c9f69416d978016b3191175f35e59226.svg" width="100px;" alt="Midtrans"/><br /><sub><b>RDS</b></sub></a></td>
+     <!---  New Stack --->
+    </tr>
   </tbody>
 </table>
 
