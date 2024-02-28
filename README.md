@@ -9,7 +9,10 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lendral3n&show_icons=true&theme=transparent)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lendral3n&theme=transparent&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lendral3n&theme=transparent)
 
 ## Tech Stack 🛠️ 
 
