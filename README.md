@@ -9,6 +9,7 @@
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lendral3n&show_icons=true&theme=transparent)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lendral3n&" alt="lendral3n" /></p>
 
 ## Tech Stack 🛠️ 
 
