@@ -41,7 +41,7 @@ Here is the list of technology stacks that I have used:
    <tr>
         <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/rds/"><img src="https://d2ga7imph990gt.cloudfront.net/icon/1d374ed2a6bcf601d7bfd4fc3dfd3b5d-c9f69416d978016b3191175f35e59226.svg" width="100px;" alt="Midtrans"/><br /><sub><b>RDS</b></sub></a></td>
        <td align="center" valign="top" width="14.28%"><a href="https://cloud.google.com"><img src="https://avatars.githubusercontent.com/u/2810941?s=200" width="100px;" alt="Midtrans"/><br /><sub><b>GCP</b></sub></a></td>
-       <td align="center" valign="top" width="14.28%"><a href="https://mailtrap.io"><img src="https://mailtrap.io/wp-content/uploads/2023/01/mailtrap-logo-inverse.svg" width="100px;" alt="Midtrans"/><br /><sub><b>Mailtrap</b></sub></a></td>
+       <td align="center" valign="top" width="14.28%"><a href="https://mailtrap.io"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4Ibl-v_x8H9maFK8kTaGzFHikGV42BCZrIRzG-M_qT-H34jpcZ4ki6OV&s=10" width="100px;" alt="Midtrans"/><br /><sub><b>Mailtrap</b></sub></a></td>
        <!--- NEW STACK --->
     </tr>
   </tbody>
