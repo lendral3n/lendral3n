@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lendra+Syaputra!!+😊;" />
 </h1>
 
-<h3 align="center">👨‍💻 I'm Backend Engineer from <a href="https://academy.alterra.id/">Alterra Academy</a> !!</h3>
+<h3 align="center">👨‍💻 I'm Backend Engineer from <a href="https://academy.alterra.id/">Alterra Academy</a> !</h3>
 
 <div align="center">
 
