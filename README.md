@@ -1,8 +1,14 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=lendral3n&color=blue&style=plastic" />
 
+<div align="center">
+    
+![](https://count.getloli.com/get/@:lendral3n?theme=gelbooru)
+    
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Impact&size=40&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Lendra+Syaputra!!+😊;" />
 </h1>
+</div>
+
+<img align="right" src="https://komarev.com/ghpvc/?username=lendral3n&color=blue&style=plastic" />
 
 <h3 align="center">👨‍💻 I'm Backend Engineer from <a href="https://academy.alterra.id/">Alterra Academy</a> !</h3>
 
