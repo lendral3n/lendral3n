@@ -8,7 +8,7 @@
 </h1>
 </div>
 
-<img align="right" src="https://komarev.com/ghpvc/?username=lendral3n&color=blue&style=plastic" />
+<img align="center" src="https://komarev.com/ghpvc/?username=lendral3n&color=blue&style=plastic" />
 
 <h3 align="center">👨‍💻 I'm Backend Engineer from <a href="https://academy.alterra.id/">Alterra Academy</a> !</h3>
 
