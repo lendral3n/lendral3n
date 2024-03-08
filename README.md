@@ -25,7 +25,7 @@
 
 <div align="center">
   <a href="https://www.facebook.com/profile.php?id=100041613250923" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lendra" height="50" width="60" /></a>
-  <a href="https://www.linkedin.com/in/lendra-syaputra-98119023a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lendra" height="50" width="60" /></a>
+  <a href="https://www.linkedin.com/in/lendra-syaputra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lendra" height="50" width="60" /></a>
   <a href="https://www.instagram.com/lendral3n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lendra" height="50" width="60" /></a>
   <a href="https://discord.com/users/804390945393999952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lendra" height="50" width="60" /></a>
 </div>
