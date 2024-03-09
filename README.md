@@ -63,6 +63,7 @@ Here is the list of technology stacks that I have used:
        <td align="center" valign="top" width="14.28%"><a href="https://mailtrap.io"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4Ibl-v_x8H9maFK8kTaGzFHikGV42BCZrIRzG-M_qT-H34jpcZ4ki6OV&s=10" width="100px;" alt="Midtrans"/><br /><sub><b>Mailtrap</b></sub></a></td>
        <td align="center" valign="top" width="14.28%"><a href="https://developers.facebook.com/"><img src="https://images.rawpixel.com/image_png_social_square/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjEwOTEtMDNfMS5wbmc.png?s=t8R_MEqDk2QX65s-vqAibP_nBAbQZO_STXkaYTPS6_w" width="100px;" alt="Midtrans"/><br /><sub><b>Meta For Developers</b></sub></a></td>
        <td align="center" valign="top" width="14.28%"><a href="https://github.com/gorilla/websocket"><img src="https://www.culturetech.cl/wp-content/uploads/2021/04/GorillaMux.png" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Gorilla WebSocket</b></sub></a></td>
+       <td align="center" valign="top" width="14.28%"><a href="https://github.com/gorilla/websocket"><img src="https://technource.s3.us-west-1.amazonaws.com/wp-content/uploads/2022/05/07170400/SQLite-DB-Icon-1.webp" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>SQLite3</b></sub></a></td>
        <!--- NEW STACK --->
     </tr>
   </tbody>
