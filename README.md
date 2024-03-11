@@ -65,10 +65,13 @@ Here is the list of technology stacks that I have used:
        <td align="center" valign="top" width="14.28%"><a href="https://github.com/gorilla/websocket"><img src="https://www.culturetech.cl/wp-content/uploads/2021/04/GorillaMux.png" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Gorilla WebSocket</b></sub></a></td>
        <td align="center" valign="top" width="14.28%"><a href="https://www.sqlite.org/index.html"><img src="https://technource.s3.us-west-1.amazonaws.com/wp-content/uploads/2022/05/07170400/SQLite-DB-Icon-1.webp" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>SQLite3</b></sub></a></td>
        <td align="center" valign="top" width="14.28%"><a href="https://github.com/spf13/viper"><img src="https://res.cloudinary.com/dlxvvuhph/image/upload/f_auto,q_auto/v1/samples/kmnsl3l1msxxuwtlkcih" width="90px;" alt="Gorilla WebSocket"/><br /><sub><b>Viper</b></sub></a></td>
-       <!---<tr>
-       <td align="center" valign="top" width="14.28%"><a href="https://www.sqlite.org/index.html"><img src="https://technource.s3.us-west-1.amazonaws.com/wp-content/uploads/2022/05/07170400/SQLite-DB-Icon-1.webp" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>SQLite3</b></sub></a></td>
-   </tr>
+  <tr>
+       <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Docker</b></sub></a></td>
+      <!--<td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Django</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Flask</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://pepa.holla.cz/wp-content/uploads/2020/05/fiber.png" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Fiber</b></sub></a></td>--->
        <!--- NEW STACK --->
+   </tr>
     </tr>
   </tbody>
 </table>
