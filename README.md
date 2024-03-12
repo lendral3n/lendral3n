@@ -66,11 +66,12 @@ Here is the list of technology stacks that I have used:
        <td align="center" valign="top" width="14.28%"><a href="https://www.sqlite.org/index.html"><img src="https://technource.s3.us-west-1.amazonaws.com/wp-content/uploads/2022/05/07170400/SQLite-DB-Icon-1.webp" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>SQLite3</b></sub></a></td>
        <td align="center" valign="top" width="14.28%"><a href="https://github.com/spf13/viper"><img src="https://res.cloudinary.com/dlxvvuhph/image/upload/f_auto,q_auto/v1/samples/kmnsl3l1msxxuwtlkcih" width="90px;" alt="Gorilla WebSocket"/><br /><sub><b>Viper</b></sub></a></td>
   <tr>
-       <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Docker</b></sub></a></td>
-      <!--<td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Django</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Flask</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://pepa.holla.cz/wp-content/uploads/2020/05/fiber.png" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Fiber</b></sub></a></td>--->
-       <!--- NEW STACK --->
+      <!---<td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Django</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://th.bing.com/th/id/OIP.a2e0BlK93J78YSRMd7DvxwAAAA?w=224&h=224&rs=1&pid=ImgDetMain" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Flask</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://res.cloudinary.com/dlxvvuhph/image/upload/f_auto,q_auto/v1/samples/pcdepz9kvqwdlavvvcas" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Fiber</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://avatars.githubusercontent.com/u/7894478?s=100" alt="Gorilla WebSocket"/><br /><sub><b>Gin</b></sub></a></td>
+       <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://akamist.com/blog/wp-content/uploads/2017/11/icon_docker.png" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Docker</b></sub></a></td>--->
+       <!--- NEW STACK ---> 
    </tr>
     </tr>
   </tbody>
