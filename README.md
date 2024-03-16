@@ -68,7 +68,7 @@ Here is the list of technology stacks that I have used:
   <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://th.bing.com/th/id/OIP.a2e0BlK93J78YSRMd7DvxwAAAA?w=224&h=224&rs=1&pid=ImgDetMain" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Flask</b></sub></a></td>
        <td align="center" valign="top" width="14.28%"><a href="https://www.heroku.com/"><img src="https://w7.pngwing.com/pngs/983/697/png-transparent-heroku-software-deployment-software-development-postgresql-amazon-web-services-cloud-computing-purple-angle-violet-thumbnail.png" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Heroku</b></sub></a></td>
-      <!---<td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://www.svgrepo.com/show/353657/django-icon.svg" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Django</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.heroku.com/"><img src="https://th.bing.com/th/id/OIP.MzVbevlXc55LpxXeR27KWQHaHa?rs=1&pid=ImgDetMain" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>gRPC</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://res.cloudinary.com/dlxvvuhph/image/upload/f_auto,q_auto/v1/samples/pcdepz9kvqwdlavvvcas" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Fiber</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://avatars.githubusercontent.com/u/7894478?s=100" alt="Gorilla WebSocket"/><br /><sub><b>Gin</b></sub></a></td>--->
        <!--- NEW STACK ---> 
