@@ -70,7 +70,7 @@ Here is the list of technology stacks that I have used:
        <td align="center" valign="top" width="14.28%"><a href="https://www.heroku.com/"><img src="https://w7.pngwing.com/pngs/983/697/png-transparent-heroku-software-deployment-software-development-postgresql-amazon-web-services-cloud-computing-purple-angle-violet-thumbnail.png" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Heroku</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.heroku.com/"><img src="https://th.bing.com/th/id/OIP.MzVbevlXc55LpxXeR27KWQHaHa?rs=1&pid=ImgDetMain" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>gRPC</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://res.cloudinary.com/dlxvvuhph/image/upload/f_auto,q_auto/v1/samples/pcdepz9kvqwdlavvvcas" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Fiber</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://avatars.githubusercontent.com/u/7894478?s=100" alt="Gorilla WebSocket"/><br /><sub><b>Gin</b></sub></a></td>--->
+      <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://avatars.githubusercontent.com/u/7894478?s=100" alt="Gorilla WebSocket"/><br /><sub><b>Gin</b></sub></a></td>
        <!--- NEW STACK ---> 
    </tr>
     </tr>
@@ -78,71 +78,60 @@ Here is the list of technology stacks that I have used:
 </table>
 
 
-<!---<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-	
-<div>
-  <p align="center">
-	<a href="https://github.com/lendral3n/Simpel_gRPC-Go">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=Simpel_gRPC-Go&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/lendral3n/Simpel_gRPC-Go">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=Simpel_gRPC-Go&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Strees_Testing">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/CP-Templates">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/7oSkaaa/Codeforces-Polygon-Template">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Some-Linux-Commands">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Shorten-Link">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Shorten-Link&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/7oSkaaa">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=7oSkaaa&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Competitive-Programming-Session-Content">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Competitive-Programming-Session-Content&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/VS-Code-for-CP">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=VS-Code-for-CP&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Sorting-Algorithms">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Sorting-Algorithms&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/board-link-generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=board-link-generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Tic-Tac-Toe-GUI">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Tic-Tac-Toe-GUI&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/PhoneBook-System">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=PhoneBook-System&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Sheet-Generator">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Sheet-Generator&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Calendar">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Calendar&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Codeforces-Friends-Script">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Friends-Script&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/vJudge-Board-Scrapper">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=vJudge-Board-Scrapper&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/CP-Templates-Snippets">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates-Snippets&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-	<a href="https://github.com/7oSkaaa/Udemy-Website">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Udemy-Website&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-</div>
-</details>--->
+<details>
+  <summary><h3>:open_file_folder: My Repositories</h3></summary>
+  <div>
+    <p align="center">
+      <!-- KulinerKlasik-Microservices -->
+      <!--<a href="https://github.com/lendral3n/KulinerKlasik-Microservices">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=KulinerKlasik-Microservices&theme=tokyonight" alt="KulinerKlasik-Microservices Stats" />
+      </a>
+      <!-- L3NMusicStreaming -->
+      <a href="https://github.com/lendral3n/SoloProject-L3NMusicStreaming">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=SoloProject-L3NMusicStreaming&theme=tokyonight" alt="L3NMusicStreaming Stats" />
+      </a>
+      <!-- CapstoneProject-KosKita-BE -->
+      <a href="https://github.com/lendral3n/CapstoneProject-KosKita-BE">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=CapstoneProject-KosKita-BE&theme=tokyonight" alt="KosKita-BE Stats" />
+      </a>
+      <!-- GrupProject-RedStore -->
+      <a href="https://github.com/lendral3n/GrupProject-RedStore">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=GrupProject-RedStore&theme=tokyonight" alt="RedStore Stats" />
+      </a>
+      <!-- Social-Media-Apps -->
+      <a href="https://github.com/lendral3n/Social-Media-Apps">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=Social-Media-Apps&theme=tokyonight" alt="Social-Media-Apps Stats" />
+      </a>
+      <!-- Snake-Game-Terminal -->
+      <a href="https://github.com/lendral3n/Snake-Game-Terminal">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=Snake-Game-Terminal&theme=tokyonight" alt="Snake-Game-Terminal Stats" />
+      </a>
+      <!-- My_Password_Manager -->
+      <a href="https://github.com/lendral3n/My_Password_Manager">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=My_Password_Manager&theme=tokyonight" alt="My_Password_Manager Stats" />
+      </a>
+      <!-- PasswordReset-OAuthIntegration -->
+      <a href="https://github.com/lendral3n/PasswordReset-OAuthIntegration">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=PasswordReset-OAuthIntegration&theme=tokyonight" alt="PasswordReset-OAuthIntegration Stats" />
+      </a>
+      <!-- Simpel-RestAPI-Flask -->
+      <a href="https://github.com/lendral3n/Simpel-RestAPI-Flask">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=Simpel-RestAPI-Flask&theme=tokyonight" alt="Simpel-RestAPI-Flask Stats" />
+      </a>
+      <!-- Simpel_gRPC-Go -->
+      <a href="https://github.com/lendral3n/Simpel_gRPC-Go">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=Simpel_gRPC-Go&theme=tokyonight" alt="Simpel_gRPC-Go Stats" />
+      </a>
+      <!-- Simple-REST-ful-Gin -->
+      <!---<a href="https://github.com/lendral3n/Simple-REST-ful-Gin">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=Simple-REST-ful-Gin&theme=tokyonight" alt="Simple-REST-ful-Gin Stats" />
+      </a>
+      <!-- Simple-REST-ful-Fiber -->
+      <a href="https://github.com/lendral3n/Simple-REST-ful-Fiber">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=Simple-REST-ful-Fiber&theme=tokyonight" alt="Simple-REST-ful-Fiber Stats" />
+      </a>
+    </p>
+  </div>
+</details>
+
 
