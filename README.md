@@ -29,14 +29,15 @@
   <a href="https://www.instagram.com/lendral3n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lendra" height="50" width="60" /></a>
   <a href="https://discord.com/users/804390945393999952" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lendra" height="50" width="60" /></a>
 </div>
-</div>
+
+
 
 
 <div align="center">
     
-## Tech Stack 🛠️ 
-Here is the list of technology stacks that I have used:
-
+### <p>To view the list of technologies I use, please click here:</p>
+<details>
+  <summary><h3>:hammer_and_wrench: Tech Stack</h3></summary>
 <table>
   <tbody>
     <tr>
@@ -65,6 +66,7 @@ Here is the list of technology stacks that I have used:
        <td align="center" valign="top" width="14.28%"><a href="https://github.com/gorilla/websocket"><img src="https://www.culturetech.cl/wp-content/uploads/2021/04/GorillaMux.png" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Gorilla WebSocket</b></sub></a></td>
        <td align="center" valign="top" width="14.28%"><a href="https://www.sqlite.org/index.html"><img src="https://technource.s3.us-west-1.amazonaws.com/wp-content/uploads/2022/05/07170400/SQLite-DB-Icon-1.webp" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>SQLite3</b></sub></a></td>
        <td align="center" valign="top" width="14.28%"><a href="https://github.com/spf13/viper"><img src="https://res.cloudinary.com/dlxvvuhph/image/upload/f_auto,q_auto/v1/samples/kmnsl3l1msxxuwtlkcih" width="90px;" alt="Gorilla WebSocket"/><br /><sub><b>Viper</b></sub></a></td>
+   </tr>
   <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://th.bing.com/th/id/OIP.a2e0BlK93J78YSRMd7DvxwAAAA?w=224&h=224&rs=1&pid=ImgDetMain" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Flask</b></sub></a></td>
        <td align="center" valign="top" width="14.28%"><a href="https://www.heroku.com/"><img src="https://w7.pngwing.com/pngs/983/697/png-transparent-heroku-software-deployment-software-development-postgresql-amazon-web-services-cloud-computing-purple-angle-violet-thumbnail.png" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Heroku</b></sub></a></td>
@@ -76,8 +78,9 @@ Here is the list of technology stacks that I have used:
     </tr>
   </tbody>
 </table>
+</details>
 
-
+### <p>To view my repositories, please click here:</p>
 <details>
   <summary><h3>:open_file_folder: My Repositories</h3></summary>
   <div>
