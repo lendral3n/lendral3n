@@ -21,6 +21,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lendral3n&theme=transparent)
 
+##
+
 ## Contact Me 📞
 
 <div align="center">
@@ -34,10 +36,12 @@
 
 
 <div align="center">
-    
-### <p>To view the list of technologies I use, please click here:</p>
-<details>
-  <summary><h3>:hammer_and_wrench: Tech Stack</h3></summary>
+
+##
+
+## Tech Stack 🛠️
+Here is the list of technology stacks that I have used:
+
 <table>
   <tbody>
     <tr>
@@ -78,15 +82,16 @@
     </tr>
   </tbody>
 </table>
-</details>
 
-### <p>To view my repositories, please click here:</p>
-<details>
-  <summary><h3>:open_file_folder: My Repositories</h3></summary>
+
+##
+
+## 📁 My Repositories
+ 
   <div>
     <p align="center">
       <!-- KulinerKlasik-Microservices -->
-      <!--<a href="https://github.com/lendral3n/KulinerKlasik-Microservices">
+      <a href="https://github.com/lendral3n/KulinerKlasik-Microservices">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=KulinerKlasik-Microservices&theme=tokyonight" alt="KulinerKlasik-Microservices Stats" />
       </a>
       <!-- L3NMusicStreaming -->
@@ -135,6 +140,5 @@
       </a>
     </p>
   </div>
-</details>
 
 
