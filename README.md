@@ -91,8 +91,8 @@ Here is the list of technology stacks that I have used:
   <div>
     <p align="center">
       <!-- KulinerKlasik-Microservices -->
-      <a href="https://github.com/lendral3n/KulinerKlasik-Microservices">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=KulinerKlasik-Microservices&theme=tokyonight" alt="KulinerKlasik-Microservices Stats" />
+      <a href="https://github.com/lendral3n/KulinerKlasik-Microservices-gRPC">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=KulinerKlasik-Microservices-gRPC&theme=tokyonight" alt="KulinerKlasik-Microservices Stats" />
       </a>
       <!-- L3NMusicStreaming -->
       <a href="https://github.com/lendral3n/SoloProject-L3NMusicStreaming">
