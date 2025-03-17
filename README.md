@@ -11,7 +11,7 @@
 <div align="center">
 <img align="center" width="130" src="https://komarev.com/ghpvc/?username=lendral3n&color=blue&style=plastic&size=500" />
 </div>
-<h3 align="center">👨‍💻 I'm Backend Engineer from <a href="https://academy.alterra.id/">Alterra Academy</a> !</h3>
+<h3 align="center">👨‍💻 I'm Backend Engineer</a> !</h3>
 
 <div align="center">
 
