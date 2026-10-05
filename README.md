@@ -1,4 +1,3 @@
-
 <div align="center">
     
 ![](https://count.getloli.com/get/@:lendral3n?theme=gelbooru)
@@ -44,39 +43,57 @@ Here is the list of technology stacks that I have used:
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://go.dev/"><img src="https://static.vecteezy.com/system/resources/previews/012/697/296/original/3d-golang-programming-language-logo-free-png.png" width="100px;" alt="Golang"/><br /><sub><b>Golang</b></sub></a></td>
-        <td align="center" valign="top" width="14.28%"><a href="https://www.python.org/"><img src="https://pluspng.com/img-png/python-logo-png-open-2000.png" width="100px;" alt="Golang"/><br /><sub><b>Python</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="100px;" alt="Python"/><br /><sub><b>Python</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://avatars.githubusercontent.com/u/5429470?s=200" width="100px;" alt="Docker"/><br /><sub><b>Docker</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://echo.labstack.com/"><img src="https://th.bing.com/th/id/OIP.gP7TKxWnQMIwPkKqTkyoagAAAA?rs=1&pid=ImgDetMain" width="100px;" alt="Echo"/><br /><sub><b>Echo</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://echo.labstack.com/"><img src="https://user-images.githubusercontent.com/78424526/214602214-52e0483a-b5fc-4d4c-b03e-0b7b23e012df.svg" width="100px;" alt="Echo"/><br /><sub><b>Echo</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://gorm.io/"><img src="https://avatars.githubusercontent.com/u/15127678?s=400&v=4" width="100px;" alt="Gorm"/><br /><sub><b>Gorm</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.mysql.com/"><img src="https://th.bing.com/th/id/OIP.urLHYMYPFxkcs6AC4Io9vwHaHa?rs=1&pid=ImgDetMain" width="100px;" alt="MySQL"/><br /><sub><b>MySQL</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.postgresql.org/"><img src="https://th.bing.com/th/id/OIP.IEgGsRwougUKXE26RKJVagHaHo?rs=1&pid=ImgDetMain" width="100px;" alt="Postgres"/><br /><sub><b>Postgres</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="100px;" alt="MySQL"/><br /><sub><b>MySQL</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="100px;" alt="Postgres"/><br /><sub><b>Postgres</b></sub></a></td>
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://redis.io/"><img src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png" width="100px;" alt="Redis"/><br /><sub><b>Redis</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://jwt.io/"><img src="https://jwt.io/img/pic_logo.svg" width="100px;" alt="JWT"/><br /><sub><b>JWT</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/"><img src="https://avatars.githubusercontent.com/u/2232217?s=200" width="100px;" alt="AWS"/><br /><sub><b>AWS</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="c"><img src="https://d2ga7imph990gt.cloudfront.net/icon/d88319dfa5d204f019b4284149886c59-7d586ea82f792b61a8c87de60565133d.svg" width="100px;" alt="EC2"/><br /><sub><b>EC2</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/ec2/"><img src="https://d2ga7imph990gt.cloudfront.net/icon/d88319dfa5d204f019b4284149886c59-7d586ea82f792b61a8c87de60565133d.svg" width="100px;" alt="EC2"/><br /><sub><b>EC2</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/s3/"><img src="https://d2ga7imph990gt.cloudfront.net/icon/c0828e0381730befd1f7a025057c74fb-43acc0496e64afba82dbc9ab774dc622.svg" width="100px;" alt="S3"/><br /><sub><b>Cloud Storage S3</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://cloudinary.com/"><img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/7dd42135-1175-416e-b371-09c1b2d05d78.png?ixlib=react-9.0.3&ch=Width%2CDPR&auto=format&w=2618" width="100px;" alt="Cloudinary"/><br /><sub><b>Cloud Storage Cloudinary</b></sub></a></td>
-        <td align="center" valign="top" width="14.28%"><a href="https://midtrans.com/id"><img src="https://media-exp1.licdn.com/dms/image/C510BAQF0STaxnpVW6w/company-logo_200_200/0?e=2159024400&v=beta&t=yMtwE7LXLn6KWLtNlnARrjsT61JKKuEnFhWImxznRmk" width="100px;" alt="Midtrans"/><br /><sub><b>Payment Gateway Midtrans</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://midtrans.com/id"><img src="https://github.com/midtrans.png?size=200" width="100px;" alt="Midtrans"/><br /><sub><b>Payment Gateway Midtrans</b></sub></a></td>
     </tr>
-   <tr>
-        <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/rds/"><img src="https://d2ga7imph990gt.cloudfront.net/icon/1d374ed2a6bcf601d7bfd4fc3dfd3b5d-c9f69416d978016b3191175f35e59226.svg" width="100px;" alt="Midtrans"/><br /><sub><b>RDS</b></sub></a></td>
-       <td align="center" valign="top" width="14.28%"><a href="https://cloud.google.com"><img src="https://avatars.githubusercontent.com/u/2810941?s=200" width="100px;" alt="Midtrans"/><br /><sub><b>GCP</b></sub></a></td>
-       <td align="center" valign="top" width="14.28%"><a href="https://mailtrap.io"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4Ibl-v_x8H9maFK8kTaGzFHikGV42BCZrIRzG-M_qT-H34jpcZ4ki6OV&s=10" width="100px;" alt="Midtrans"/><br /><sub><b>Mailtrap</b></sub></a></td>
-       <td align="center" valign="top" width="14.28%"><a href="https://developers.facebook.com/"><img src="https://images.rawpixel.com/image_png_social_square/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjEwOTEtMDNfMS5wbmc.png?s=t8R_MEqDk2QX65s-vqAibP_nBAbQZO_STXkaYTPS6_w" width="100px;" alt="Midtrans"/><br /><sub><b>Meta For Developers</b></sub></a></td>
-       <td align="center" valign="top" width="14.28%"><a href="https://github.com/gorilla/websocket"><img src="https://www.culturetech.cl/wp-content/uploads/2021/04/GorillaMux.png" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Gorilla WebSocket</b></sub></a></td>
-       <td align="center" valign="top" width="14.28%"><a href="https://www.sqlite.org/index.html"><img src="https://technource.s3.us-west-1.amazonaws.com/wp-content/uploads/2022/05/07170400/SQLite-DB-Icon-1.webp" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>SQLite3</b></sub></a></td>
-       <td align="center" valign="top" width="14.28%"><a href="https://github.com/spf13/viper"><img src="https://res.cloudinary.com/dlxvvuhph/image/upload/f_auto,q_auto/v1/samples/kmnsl3l1msxxuwtlkcih" width="90px;" alt="Gorilla WebSocket"/><br /><sub><b>Viper</b></sub></a></td>
-   </tr>
-  <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://flask.palletsprojects.com/en/3.0.x/"><img src="https://th.bing.com/th/id/OIP.a2e0BlK93J78YSRMd7DvxwAAAA?w=224&h=224&rs=1&pid=ImgDetMain" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Flask</b></sub></a></td>
-       <td align="center" valign="top" width="14.28%"><a href="https://www.heroku.com/"><img src="https://w7.pngwing.com/pngs/983/697/png-transparent-heroku-software-deployment-software-development-postgresql-amazon-web-services-cloud-computing-purple-angle-violet-thumbnail.png" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Heroku</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.heroku.com/"><img src="https://th.bing.com/th/id/OIP.MzVbevlXc55LpxXeR27KWQHaHa?rs=1&pid=ImgDetMain" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>gRPC</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://res.cloudinary.com/dlxvvuhph/image/upload/f_auto,q_auto/v1/samples/pcdepz9kvqwdlavvvcas" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Fiber</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.docker.com/"><img src="https://avatars.githubusercontent.com/u/7894478?s=100" alt="Gorilla WebSocket"/><br /><sub><b>Gin</b></sub></a></td>
-       <!--- NEW STACK ---> 
-   </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://aws.amazon.com/rds/"><img src="https://d2ga7imph990gt.cloudfront.net/icon/1d374ed2a6bcf601d7bfd4fc3dfd3b5d-c9f69416d978016b3191175f35e59226.svg" width="100px;" alt="RDS"/><br /><sub><b>RDS</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://cloud.google.com"><img src="https://avatars.githubusercontent.com/u/2810941?s=200" width="100px;" alt="GCP"/><br /><sub><b>GCP</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://mailtrap.io"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV4Ibl-v_x8H9maFK8kTaGzFHikGV42BCZrIRzG-M_qT-H34jpcZ4ki6OV&s=10" width="100px;" alt="Mailtrap"/><br /><sub><b>Mailtrap</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://developers.facebook.com/"><img src="https://images.rawpixel.com/image_png_social_square/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvdjEwOTEtMDNfMS5wbmc.png?s=t8R_MEqDk2QX65s-vqAibP_nBAbQZO_STXkaYTPS6_w" width="100px;" alt="Meta For Developers"/><br /><sub><b>Meta For Developers</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gorilla/websocket"><img src="https://github.com/gorilla.png?size=200" width="100px;" alt="Gorilla WebSocket"/><br /><sub><b>Gorilla WebSocket</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.sqlite.org/index.html"><img src="https://technource.s3.us-west-1.amazonaws.com/wp-content/uploads/2022/05/07170400/SQLite-DB-Icon-1.webp" width="100px;" alt="SQLite3"/><br /><sub><b>SQLite3</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/spf13/viper"><img src="https://res.cloudinary.com/dlxvvuhph/image/upload/f_auto,q_auto/v1/samples/kmnsl3l1msxxuwtlkcih" width="100px;" alt="Viper"/><br /><sub><b>Viper</b></sub></a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="100px;" alt="Flask"/><br /><sub><b>Flask</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.heroku.com/"><img src="https://w7.pngwing.com/pngs/983/697/png-transparent-heroku-software-deployment-software-development-postgresql-amazon-web-services-cloud-computing-purple-angle-violet-thumbnail.png" width="100px;" alt="Heroku"/><br /><sub><b>Heroku</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://grpc.io/"><img src="https://www.vectorlogo.zone/logos/grpcio/grpcio-icon.svg" width="100px;" alt="gRPC"/><br /><sub><b>gRPC</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://gofiber.io/"><img src="https://res.cloudinary.com/dlxvvuhph/image/upload/f_auto,q_auto/v1/samples/pcdepz9kvqwdlavvvcas" width="100px;" alt="Fiber"/><br /><sub><b>Fiber</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://gin-gonic.com/"><img src="https://avatars.githubusercontent.com/u/7894478?s=200" width="100px;" alt="Gin"/><br /><sub><b>Gin</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="100px;" alt="Node.js"/><br /><sub><b>Node.js</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" width="100px;" alt="Express"/><br /><sub><b>Express</b></sub></a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100px;" alt="JavaScript"/><br /><sub><b>JavaScript</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="100px;" alt="TypeScript"/><br /><sub><b>TypeScript</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px;" alt="React"/><br /><sub><b>React</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://nextjs.org/"><img src="https://skillicons.dev/icons?i=nextjs" width="100px;" alt="Next.js"/><br /><sub><b>Next.js</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://fastapi.tiangolo.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="100px;" alt="FastAPI"/><br /><sub><b>FastAPI</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.sqlalchemy.org/"><img src="https://github.com/sqlalchemy.png?size=200" width="100px;" alt="SQLAlchemy"/><br /><sub><b>SQLAlchemy</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://kafka.apache.org/"><img src="https://skillicons.dev/icons?i=kafka" width="100px;" alt="Apache Kafka"/><br /><sub><b>Apache Kafka</b></sub></a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.vertica.com/"><img src="https://github.com/vertica.png?size=200" width="100px;" alt="Vertica"/><br /><sub><b>Vertica</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.rust-lang.org/"><img src="https://skillicons.dev/icons?i=rust" width="100px;" alt="Rust"/><br /><sub><b>Rust</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://soliditylang.org/"><img src="https://skillicons.dev/icons?i=solidity" width="100px;" alt="Solidity"/><br /><sub><b>Solidity</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.swift.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="100px;" alt="Swift"/><br /><sub><b>Swift</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="100px;" alt="Kotlin"/><br /><sub><b>Kotlin</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://developer.android.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="100px;" alt="Android"/><br /><sub><b>Android</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"></td>
     </tr>
   </tbody>
 </table>
@@ -131,12 +148,10 @@ Here is the list of technology stacks that I have used:
       <!-- Simple-REST-ful-Gin -->
       <!---<a href="https://github.com/lendral3n/Simple-REST-ful-Gin">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=Simple-REST-ful-Gin&theme=tokyonight" alt="Simple-REST-ful-Gin Stats" />
-      </a>
+      </a>--->
       <!-- Simple-REST-ful-Fiber -->
       <a href="https://github.com/lendral3n/Simple-REST-ful-Fiber">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=lendral3n&repo=Simple-REST-ful-Fiber&theme=tokyonight" alt="Simple-REST-ful-Fiber Stats" />
       </a>
     </p>
   </div>
-
-
